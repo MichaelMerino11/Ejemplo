@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Recursos/icono/salary.png</file>
+        <file>Recursos/otros/amanecer.png</file>
+        <file>Recursos/otros/dom.png</file>
+        <file>Recursos/otros/noche.png</file>
+    </qresource>
+</RCC>
